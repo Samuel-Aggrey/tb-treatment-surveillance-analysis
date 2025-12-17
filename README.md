@@ -39,3 +39,23 @@ This project was conducted as a self-directed learning exercise to develop skill
 
 ## Author
 Samuel Aggrey
+## Figures
+
+### Figure 1. Global tuberculosis treatment success trend
+![Global TB treatment success trend](figures/global_trend.png)
+
+*Average treatment success rate for new and relapse TB cases aggregated across reporting countries. While the global trend suggests gradual improvement, this representation conceals substantial country-level heterogeneity.*
+
+---
+
+### Figure 2. Age- and sex-based disparities in treatment success
+![Age and sex disparities](figures/age_sex_disparities.png)
+
+*Distribution of treatment success rates stratified by age group and sex. The figure highlights persistent demographic differences in reported outcomes at the population level.*
+
+---
+
+### Figure 3. Surveillance instability versus treatment outcome trends
+![Surveillance instability vs stagnation](figures/surveillance_instability.png)
+
+*Relationship between long-term country-level treatment success trends and mean model prediction error. Countries with limited improvement and high instability may represent areas where outcome monitoring is more challenging using aggregate indicators.*
